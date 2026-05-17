@@ -83,7 +83,7 @@ Depth: 2.9
 
 ---
 
-## Result: The crab is FEMALE/Male
+## Result: The crab is FEMALE
 
 ---
 
